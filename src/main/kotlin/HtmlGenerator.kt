@@ -367,7 +367,7 @@ class HtmlGenerator(
 
         // Configuration - update these if needed
         val config = Config(
-            githubUsername = "nsiva7",
+            githubUsername = "MaheshPConnects",
             githubRepo = "Data",
             githubBranch = "main", // or "master"
             imagesDirectory = "Images", // Path relative to project root
