@@ -10,7 +10,7 @@ data class ImageInfo(
 )
 
 class HtmlGenerator(
-    private val githubUsername: String = "nsiva7",
+    private val githubUsername: String = "MaheshPConnects",
     private val githubRepo: String = "Data",
     private val githubBranch: String = "main",
     private val baseDirectory: String = "Images"
